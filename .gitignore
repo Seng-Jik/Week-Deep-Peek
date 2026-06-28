@@ -1,0 +1,4 @@
+﻿# MDwiki site
+*.zip
+
+# 排除 index.md 的文件和索引（由 README 同步）
