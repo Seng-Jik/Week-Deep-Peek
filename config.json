@@ -1,7 +1,7 @@
-﻿{
-    "useSideMenu": true,
+{
+    "useSideMenu": false,
     "lineBreaks": "gfm",
     "additionalFooterText": "All content &copy; 许兴逸 | ",
     "anchorCharacter": "¶",
-    "title": "深度一瞥 — Weekly Deep Peek"
+    "title": "每周深度一瞥"
 }
