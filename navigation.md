@@ -1,7 +1,12 @@
-﻿# 深度一瞥
+# 深度一瞥
 
-[README]()
-[第001期 试刊号](001-试刊号-2026-06-27.md)
-[第002期 合成生物学](002-合成生物学-2026-06-28.md)
+[📖 首页](index.md)
 
-[GitHub仓库](https://github.com/Seng-Jik/Weekly-Deep-Peek)
+---
+
+[#001 试刊号](001-试刊号-2026-06-27.md)
+[#002 合成生物学](002-合成生物学-2026-06-28.md)
+
+---
+
+[GitHub 仓库](https://github.com/Seng-Jik/Weekly-Deep-Peek)
