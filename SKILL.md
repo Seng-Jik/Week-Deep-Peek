@@ -84,10 +84,10 @@ git pull --rebase origin main
 git push origin main
 ```
 
-GitHub 仓库: `git@github.com:Seng-Jik/Weekly-Deep-Peek.git`（SSH）
+GitHub 仓库: `git@github.com:Seng-Jik/Week-Deep-Peek.git`（SSH）
 
 ### GitHub Pages 网站维护
-- GitHub Pages 地址: https://seng-jik.github.io/week-deep-peek.github.io/
+- GitHub Pages 地址: https://seng-jik.github.io/Week-Deep-Peek/
 - 网站使用 MDwiki 0.7.0 渲染 Markdown 文件
 - 每期新文章发布后，**必须同步更新以下文件**：
   - `D:\Vim\深度一瞥\index.md` — 在目录最顶部插入新一期（最新在上，最旧在下），每期标题带上 `[📖 阅读全文](文件名.md)` 链接
