@@ -1,0 +1,50 @@
+Exit code: 1
+
+STDOUT:
+
+
+STDERR:
+�����ꏊ �s:6 ����:2
++ - �{��������??���?���ߗL�I����������??�Z�i���O�ŐV���� + 1�j
++  ~
+�P�����Z�q '-' �̌�Ɏ������݂��܂���B
+�����ꏊ �s:6 ����:3
++ - �{��������??���?���ߗL�I����������??�Z�i���O�ŐV���� + 1�j
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+���܂��̓X�e�[�g�����g�̃g�[�N�� '�{��������??���?���ߗL�I����������??�Z�i���O�ŐV����' ���g�p�ł��܂���B
+�����ꏊ �s:7 ����:2
++ - GitHub ??: git@github.com:Seng-Jik/Week-Deep-Peek.git
++  ~
+�P�����Z�q '-' �̌�Ɏ������݂��܂���B
+�����ꏊ �s:7 ����:3
++ - GitHub ??: git@github.com:Seng-Jik/Week-Deep-Peek.git
++   ~~~~~~
+���܂��̓X�e�[�g�����g�̃g�[�N�� 'GitHub' ���g�p�ł��܂���B
+�����ꏊ �s:8 ����:2
++ - GitHub Pages: https://seng-jik.github.io/Week-Deep-Peek/
++  ~
+�P�����Z�q '-' �̌�Ɏ������݂��܂���B
+�����ꏊ �s:8 ����:3
++ - GitHub Pages: https://seng-jik.github.io/Week-Deep-Peek/
++   ~~~~~~
+���܂��̓X�e�[�g�����g�̃g�[�N�� 'GitHub' ���g�p�ł��܂���B
+�����ꏊ �s:9 ����:2
++ - �ʍ�O��p web_search �r�W�f��
++  ~
+�P�����Z�q '-' �̌�Ɏ������݂��܂���B
+�����ꏊ �s:9 ����:3
++ - �ʍ�O��p web_search �r�W�f��
++   ~~~~~
+���܂��̓X�e�[�g�����g�̃g�[�N�� '�ʍ�O��p' ���g�p�ł��܂���B
+�����ꏊ �s:12 ����:4
++ 1. �g�p web_search �r���{���L��I��?��??�A�V�Z?�A�v�z?����
++    ~~
+���܂��̓X�e�[�g�����g�̃g�[�N�� '�g�p' ���g�p�ł��܂���B
+�����ꏊ �s:13 ����:4
++ 2. �g�p web_fetch ??��̓I����/���q
++    ~~
+���܂��̓X�e�[�g�����g�̃g�[�N�� '�g�p' ���g�p�ł��܂���B
+�񍐂���Ă��Ȃ���̓G���[������܂��B�񍐂��ꂽ�G���[���C�����čĎ��s���Ă��������B
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingExpressionAfterOperator
+ 
